@@ -38,7 +38,7 @@ TBA
 
 [(Back to top)](#table-of-contents)
 ## Datalogger
-This project currently uses a compiled Datalogger from a previous research project from this team. Currently, this binary is only compiled for Windows systems and is present within the [FLOOD-Datalogger](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-Datalogger) folder.
+This project currently uses a compiled Datalogger from a previous research project from this team. Currently, this binary is only compiled for Windows systems and is present within the [TH-Datalogger](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-Datalogger) folder.
 
 [(Back to top)](#table-of-contents)
 ## Testing
@@ -53,7 +53,7 @@ TBA
 
 [(Back to top)](#table-of-contents)
 ## Flood Photos
-For this project, all pertinent images are housed in the [TH-PHOTOS](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-PHOTOS) directory.
+For this project, all pertinent images are housed in the [TH-Photos](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-PHOTOS) directory.
 # License
 The MIT License (MIT) 2024 - [Dr. John LaRocco](https://github.com/javeharron/), [Dr. Qudsia Tahmina](https://github.com/tahminaq), [John Simonis](https://github.com/Multi-Volt/). Please have a look at the [LICENSE.md](LICENSE) for more details.
 
