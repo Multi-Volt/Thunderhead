@@ -18,9 +18,9 @@ This research endeavor, conducted by __Dr. John LaRocco__, __Dr. Qudsia Tahmina_
 - [Data](#data)
 - [Datalogger](#datalogger)
 - [Testing](#testing)
-- [Thunderhead Equations](#TH-equations)
-- [Thunderhead MCU](#TH-mcu)
-- [Thunderhead Photos](#TH-photos)
+- [Thunderhead Equations](#thunderhead-equations)
+- [Thunderhead MCU](#thunderhead-mcu)
+- [Thunderhead Photos](#thunderhead-photos)
 - [License](#license)
 ## <a  id ="models"></a>Models & Construction
 For this project, all pertinent 3D models are housed in the [TH-3DF](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-3DF) directory. This directory is organized into the following sub-directories for ease of navigation and access:
