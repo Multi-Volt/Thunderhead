@@ -45,14 +45,14 @@ This project currently uses a compiled Datalogger from a previous research proje
 TBA
 
 [(Back to top)](#table-of-contents)
-## Flood Equations
+## Thunderhead Equations
 TBA
 
-## Flood MCU
+## Thunderhead MCU
 TBA
 
 [(Back to top)](#table-of-contents)
-## Flood Photos
+## Thunderhead Photos
 For this project, all pertinent images are housed in the [TH-Photos](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-PHOTOS) directory.
 # License
 The MIT License (MIT) 2024 - [Dr. John LaRocco](https://github.com/javeharron/), [Dr. Qudsia Tahmina](https://github.com/tahminaq), [John Simonis](https://github.com/Multi-Volt/). Please have a look at the [LICENSE.md](LICENSE) for more details.
