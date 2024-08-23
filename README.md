@@ -47,14 +47,13 @@ This project currently uses a compiled Datalogger from a previous research proje
 ### Navier-Stokes Equations:
 #### Incompressible Flow
 1. **Continuity Equation:**
-   $
-   \nabla \cdot \mathbf{u} = 0
-   $
+   $\nabla \cdot \mathbf{u} = 0$
+
    This equation ensures mass conservation, where $\mathbf{u}$ is the velocity vector field of the fluid.
-3. **Momentum Equation:**
-   $$
-   \rho \left( \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla) \mathbf{u} \right) = -\nabla p + \mu \nabla^2 \mathbf{u} + \mathbf{f}
-   $$
+2. **Momentum Equation:**
+
+   $\rho \left( \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla) \mathbf{u} \right) = -\nabla p + \mu \nabla^2 \mathbf{u} + \mathbf{f}$
+
    - $\rho$: Fluid density
    - $\mathbf{u}$: Velocity vector field
    - $t$: Time
