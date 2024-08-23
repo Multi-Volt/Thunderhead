@@ -9,6 +9,10 @@ This research endeavor, conducted by __Dr. John LaRocco__, __Dr. Qudsia Tahmina_
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [FluidX3D](https://github.com/ProjectPhysX/FluidX3D)
 - [Python](https://www.python.org/)
+Some Python modules are required for this project to work on your computer. The easiest way to install the required Python packages is to use use the following command:
+```bash
+pip install pandas numpy openpyxl trimesh[easy] python-Levenshtein
+```
 ### Hardware
 - [TH-BOM](https://github.com/Multi-Volt/Thunderhead/tree/main/FLOOD-BOM/)
 - Screw Driver
