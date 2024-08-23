@@ -35,6 +35,7 @@ There are two different prototypes that were tested during the duration of the T
 - P4: Diaphragm without aerosolized electrolytic solution.
 
 The construction of the vortex ring launcher is mostly the same for each prototype. It involves cutting out a circle at the end of a large bucket leaving a 1 1/2 inch gap between the outer edge of the bucket and the cut hole. The diapgraghm is constructed out of some thin polypropylene film duct taped to the edge of the bucket with two bungie cords used for spring tension. The Compressed air design uses standard quick fitting connectors with the lid of the bucket being epoxied on.
+
 [(Back to top)](#table-of-contents)
 ### Wiring
 You can find the schematics for this in [TH-Schematics](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-Schematics). The wiring for this project is very simple.
