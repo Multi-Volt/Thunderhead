@@ -1,5 +1,5 @@
 /*
-Copyright (c) 2023, John Simonis and The Ohio State University
+Copyright (c) 2024, John Simonis and The Ohio State University
 This code was written by John Simonis for a research project at The Ohio State University.
 */
 #include <Arduino.h>
