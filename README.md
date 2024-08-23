@@ -18,7 +18,7 @@ This research endeavor, conducted by __Dr. John LaRocco__, __Dr. Qudsia Tahmina_
 - [Datalogger](#datalogger)
 - [Thunderhead Equations](#thunderhead-equations)
 - [Thunderhead MCU](#thunderhead-mcu)
-- [Thunderhead Photos](#thunderhead-photos)
+- [Thunderhead Media](#thunderhead-media)
 - [License](#license)
 ## <a  id ="models"></a>Models & Construction
 For this project, all pertinent 3D models are housed in the [TH-3DF](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-3DF) directory. These 3D models are used for FluidX3D simulations.
@@ -83,11 +83,11 @@ This project currently uses a compiled Datalogger from a previous research proje
 
 
 ## Thunderhead MCU
-There is some deprecated code fo this project present in [TH-MCU](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-MCU)
+There is some deprecated microcontroller code for this project present in [TH-MCU](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-MCU)
 
 [(Back to top)](#table-of-contents)
-## Thunderhead Photos
-For this project, all pertinent images are housed in the [TH-Photos](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-PHOTOS) directory.
+## Thunderhead Media
+For this project, all pertinent images and other media are housed in the [TH-Media](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-Media) directory.
 # License
 The MIT License (MIT) 2024 - [Dr. John LaRocco](https://github.com/javeharron/), [Dr. Qudsia Tahmina](https://github.com/tahminaq), [John Simonis](https://github.com/Multi-Volt/). Please have a look at the [LICENSE.md](LICENSE) for more details.
 
