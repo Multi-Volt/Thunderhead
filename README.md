@@ -47,39 +47,40 @@ This project currently uses a compiled Datalogger from a previous research proje
 ### Navier-Stokes Equations:
 #### Incompressible Flow
 1. **Continuity Equation:**
-   \[
+   $$
    \nabla \cdot \mathbf{u} = 0
-   \]
-   This equation ensures mass conservation, where \(\mathbf{u}\) is the velocity vector field of the fluid.
+   $$
+   This equation ensures mass conservation, where $\mathbf{u}$ is the velocity vector field of the fluid.
 2. **Momentum Equation:**
-   \[
+   $$
    \rho \left( \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla) \mathbf{u} \right) = -\nabla p + \mu \nabla^2 \mathbf{u} + \mathbf{f}
-   \]
-   - \(\rho\): Fluid density
-   - \(\mathbf{u}\): Velocity vector field
-   - \(t\): Time
-   - \(p\): Pressure
-   - \(\mu\): Dynamic viscosity
-   - \(\nabla^2 \mathbf{u}\): Laplacian of the velocity field (representing viscous diffusion)
-   - \(\mathbf{f}\): External forces (e.g., gravity)
+   $$
+   - $\rho$: Fluid density
+   - $\mathbf{u}$: Velocity vector field
+   - $t$: Time
+   - $p$: Pressure
+   - $\mu$: Dynamic viscosity
+   - $\nabla^2 \mathbf{u}$: Laplacian of the velocity field (representing viscous diffusion)
+   - $\mathbf{f}$: External forces (e.g., gravity)
 #### Compressible Flow
 1. **Continuity Equation:**
-   \[
+   $$
    \frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{u}) = 0
-   \]
-   This accounts for changes in density \(\rho\) over time.
+   $$
+   This accounts for changes in density $\rho$ over time.
 2. **Momentum Equation:**
-   \[
+   $$
    \rho \left( \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla) \mathbf{u} \right) = -\nabla p + \nabla \cdot \boldsymbol{\tau} + \mathbf{f}
-   \]
-   - \(\boldsymbol{\tau}\): Stress tensor, which includes both viscous and pressure contributions.
+   $$
+   - $\boldsymbol{\tau}$: Stress tensor, which includes both viscous and pressure contributions.
 3. **Energy Equation:**
-   \[
+   $$
    \frac{\partial E}{\partial t} + \nabla \cdot \left( (E + p)\mathbf{u} \right) = \nabla \cdot (\mathbf{u} \cdot \boldsymbol{\tau}) + \nabla \cdot (\kappa \nabla T) + \mathbf{u} \cdot \mathbf{f}
-   \]
-   - \(E\): Total energy per unit volume
-   - \(T\): Temperature
-   - \(\kappa\): Thermal conductivity
+   $$
+   - $E$: Total energy per unit volume
+   - $T$: Temperature
+   - $\kappa$: Thermal conductivity
+
 
 ## Thunderhead MCU
 There is some deprecated code fo this project present in [TH-MCU](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-MCU)
