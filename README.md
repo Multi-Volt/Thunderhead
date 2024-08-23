@@ -67,7 +67,7 @@ This project currently uses a compiled Datalogger from a previous research proje
 
    $\frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{u}) = 0$
 
-   This accounts for changes in density $\rho$ over time.
+   - This accounts for changes in density $\rho$ over time.
 2. **Momentum Equation:**
 
    $\rho \left( \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla) \mathbf{u} \right) = -\nabla p + \nabla \cdot \boldsymbol{\tau} + \mathbf{f}$
