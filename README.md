@@ -47,9 +47,7 @@ This project currently uses a compiled Datalogger from a previous research proje
 ### Navier-Stokes Equations:
 #### Incompressible Flow
 1. **Continuity Equation:**
-   $$
-   \nabla \cdot \mathbf{u} = 0
-   $$
+   $\nabla \cdot \mathbf{u} = 0$
    This equation ensures mass conservation, where $\mathbf{u}$ is the velocity vector field of the fluid.
 2. **Momentum Equation:**
    $$
