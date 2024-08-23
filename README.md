@@ -47,6 +47,7 @@ This project currently uses a compiled Datalogger from a previous research proje
 ### Navier-Stokes Equations:
 #### Incompressible Flow
 1. **Continuity Equation:**
+
    $\nabla \cdot \mathbf{u} = 0$
 
    This equation ensures mass conservation, where $\mathbf{u}$ is the velocity vector field of the fluid.
@@ -63,19 +64,19 @@ This project currently uses a compiled Datalogger from a previous research proje
    - $\mathbf{f}$: External forces (e.g., gravity)
 #### Compressible Flow
 1. **Continuity Equation:**
-   $$
-   \frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{u}) = 0
-   $$
+
+   $\frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{u}) = 0$
+
    This accounts for changes in density $\rho$ over time.
 2. **Momentum Equation:**
-   $$
-   \rho \left( \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla) \mathbf{u} \right) = -\nabla p + \nabla \cdot \boldsymbol{\tau} + \mathbf{f}
-   $$
+
+   $\rho \left( \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla) \mathbf{u} \right) = -\nabla p + \nabla \cdot \boldsymbol{\tau} + \mathbf{f}$
+
    - $\boldsymbol{\tau}$: Stress tensor, which includes both viscous and pressure contributions.
 3. **Energy Equation:**
-   $$
-   \frac{\partial E}{\partial t} + \nabla \cdot \left( (E + p)\mathbf{u} \right) = \nabla \cdot (\mathbf{u} \cdot \boldsymbol{\tau}) + \nabla \cdot (\kappa \nabla T) + \mathbf{u} \cdot \mathbf{f}
-   $$
+
+   $\frac{\partial E}{\partial t} + \nabla \cdot \left( (E + p)\mathbf{u} \right) = \nabla \cdot (\mathbf{u} \cdot \boldsymbol{\tau}) + \nabla \cdot (\kappa \nabla T) + \mathbf{u} \cdot \mathbf{f}$
+
    - $E$: Total energy per unit volume
    - $T$: Temperature
    - $\kappa$: Thermal conductivity
