@@ -15,7 +15,7 @@ Some Python modules are required for this project to work on your computer. The 
 pip install numpy pandas openpyxl matplotlib seaborn pillow opencv-python trimesh
 ```
 ### Hardware
-- [TH-BOM](https://github.com/Multi-Volt/Thunderhead/tree/main/FLOOD-BOM/)
+- [TH-BOM](https://github.com/Multi-Volt/Thunderhead/tree/main/TH-BOM/)
 - Screw Driver
 # Table of contents
 - [Models & Construction](#models)
